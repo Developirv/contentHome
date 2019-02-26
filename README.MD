@@ -4,14 +4,16 @@ Full-stack CRUD Application
 
 
 
-A README.md file that includes:
+An intro/description of the app:
 
-A intro/description of the app.
+ComTent.
 
-
+An application to search for a content creator's multimedia portfolio. Search by Media type, including audio, video, art, and written work.
 
 
 Screenshot(s)
+
+****
 
 List of the technologies used:
 
