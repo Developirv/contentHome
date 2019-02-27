@@ -23,11 +23,12 @@ Express
 Node 
 JS
 EJS
+Heroku
 
 
 Getting Started section with:
 
-Link to your deployed app: *Heroku info here*
+Link to your deployed app: https://comtent.herokuapp.com/
 
 Link to your Trello board: https://trello.com/b/IxMV9u8X/class-project-2
 
